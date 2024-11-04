@@ -48,14 +48,14 @@ button:nth-child(2) {
   background-color: #7eeb17;
 }
 button:nth-child(3) {
-  background-color: green;
+  background-color: rgb(239, 6, 6);
 }
 button:nth-child(4) {
-  background-color: yellow;
+  background-color: grey;
   color: #333;
 }
 button:nth-child(5) {
-  background-color: rgb(146, 16, 38);
+  background-color: pink;
   color: #333;
 }
 button:nth-child(6) {
@@ -63,17 +63,17 @@ button:nth-child(6) {
   color: #fff;
 }
 button:nth-child(7) {
-  background-color: red;
+  background-color: rgb(66, 243, 6);
 }
 button:nth-child(8) {
   background-color: brown;
   color: #fff;
 }
 button:nth-child(9) {
-  background-color: pink;
+  background-color: orange;
   color: #fff;
 }
 button:nth-child(10) {
-  background-color: gray;
+  background-color: black;
   color: #fff;
 }

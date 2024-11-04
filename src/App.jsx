@@ -20,16 +20,16 @@ function App() {
           justifyContent: "center",
         }}
       >
-        <button onClick={() => setBgColor("blue")}>Blue</button>
+        <button onClick={() => setBgColor("Blue")}>Blue</button>
         <button onClick={() => setBgColor("#7eeb17")}>LightGreen</button>
-        <button onClick={() => setBgColor("green")}>Green</button>
-        <button onClick={() => setBgColor("yellow")}>Yellow</button>
-        <button onClick={() => setBgColor("rgb(140, 12, 30)")}>Pink</button>
-        <button onClick={() => setBgColor("black")}>Black</button>
-        <button onClick={() => setBgColor("red")}>Red</button>
-        <button onClick={() => setBgColor("brown")}>Brown</button>
+        <button onClick={() => setBgColor("Red")}>Red</button>
+        <button onClick={() => setBgColor("gray")}>gray</button>
         <button onClick={() => setBgColor("Pink")}>Pink</button>
-        <button onClick={() => setBgColor("Gray")}>Gray</button>
+        <button onClick={() => setBgColor("black")}>Black</button>
+        <button onClick={() => setBgColor("Green")}>Green</button>
+        <button onClick={() => setBgColor("brown")}>Brown</button>
+        <button onClick={() => setBgColor("Orange")}>Orange</button>
+        <button onClick={() => setBgColor("White")}>White</button>
       </div>
     </>
   );
